@@ -24,4 +24,20 @@
 
 /* Positioning Classes */
 
+.baby-shoes {
+  
+}
+.lady-bug-shoe {
+  
+}
+.skater-shoes {
+  
+}
+.row {
+  display: flex;
+  justify-content: space-around;
+}
 
+.column {
+  margin: 5px;
+}
